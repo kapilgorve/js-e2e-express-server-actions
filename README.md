@@ -36,7 +36,8 @@ This is a basic Express.js server used for JS Dev Experience documentation, in p
 ## Contributions
 
 * Legal files: If your PR removes the legal files, you PR will be closed. 
-* Azure Pipelines: Azure pipeline example files should be put in the `azure-pipelines` directory. The file name should indicate the type of pipeline. That should be the only file in your PR or it will be closed. 
+* Azure Pipelines: Azure pipeline example files should be put in the `azure-pipelines` directory. The file name should indicate the type of pipeline. That should be the only file in your PR or it will be closed.
+* Updated readme
 
 
 ## Resources 
